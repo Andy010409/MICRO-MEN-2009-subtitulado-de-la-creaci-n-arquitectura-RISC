@@ -1,4 +1,4 @@
-# MICRO-MEN-2009-subtitulado-de-la-creaci-n-arquitectura-RISC
+# MICRO MEN  (2009)
 A principios de los años 60 Sinclair presenta al mundo varios avances tecnológicos entres los cuales se encuentran amplificadores miniatura, radio audifonos y de los más destacable la primera calculadora plana de bolsillo.
 
 
